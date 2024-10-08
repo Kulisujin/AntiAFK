@@ -6,7 +6,7 @@ Versions
 
 antiafk.py: Full version with all features
 antiafk_slim.py: Streamlined version with core functionality
-One-liner: Compact version for easy copying and pasting
+antiafk_cp: Compact version for easy copying and pasting
 
 Features
 
@@ -19,7 +19,7 @@ Runs in the background with minimal CPU usage
 
 Requirements
 
-Windows operating system (tested on Windows 7 and above)
+Windows operating system (tested on Windows 10)
 Python 3.6 or higher
 Administrative privileges (required for setting up low-level hooks)
 
@@ -36,7 +36,7 @@ Copypython antiafk_slim.py
 The script will run in the background. You will not see any output unless there's an error.
 To stop the script, press Ctrl+C in the command prompt window.
 
-One-liner Version
+antiafk_cp Version
 
 Open a Python interactive shell with administrative privileges.
 Copy and paste the one-liner version into the shell and press Enter.
